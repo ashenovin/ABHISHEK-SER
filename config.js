@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['+947######', 'Cyber PabuZa', false],
+  ['+94721798600', 'Shen Abeywickrema', false],
   [''],
   [''] 
 ] //Number of owners
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Cyber PabuZa'
+global.botname = 'SHEN MD'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️Cyber PabuZa' 
-global.author = 'ABHISHEK SURESH' 
+global.packname = 'shen md🎯☘️Cyber Shen' 
+global.author = 'SHEN MD' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BNkfwYU85wIC2YiLv0OeEL'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
